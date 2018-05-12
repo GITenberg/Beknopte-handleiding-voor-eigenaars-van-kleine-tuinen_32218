@@ -1,0 +1,25 @@
+_repo: Beknopte-handleiding-voor-eigenaars-van-kleine-tuinen_32218
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Witte, Henrick
+    gutenberg_agent_id: '35733'
+    url: http://www.gutenberg.org/2009/agents/35733
+description: ''
+gutenberg_issued: '2010-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32218'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SB'
+- !lcsh 'Gardens'
+- !lcsh 'Gardening'
+title: Beknopte handleiding voor eigenaars van kleine tuinen
+url: http://www.gutenberg.org/ebooks/32218
